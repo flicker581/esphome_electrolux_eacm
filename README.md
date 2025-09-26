@@ -1,4 +1,4 @@
-This is an external component for Electrolux EACM-DR14, controlled via IR remote.
+This is an external component for Electrolux EACM-12DR/N3, 14DR/N3, controlled via IR remote.
 
 ```yaml
 remote_transmitter:
